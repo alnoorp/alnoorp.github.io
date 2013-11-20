@@ -1,32 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://alnoorp.github.io/blog/2013/11/20/im-so-happy-this-works-this-time/</loc>
-        <lastmod>2013-11-20T11:14:51-05:00</lastmod>
+        <loc>
+            http://alnoorp.github.io/blog/2013/11/20/decomposition-in-software-development-and-in-life/
+        </loc>
+        <lastmod>2013-11-20T17:46:50-05:00</lastmod>
     </url>
     <url>
-        <loc>http://alnoorp.github.io/blog/2013/11/20/hello/</loc>
-        <lastmod>2013-11-20T11:41:22-05:00</lastmod>
+        <loc>
+            http://alnoorp.github.io/blog/2013/11/20/5-ways-i-prepared-for-an-immersive-web-developer-program/
+        </loc>
+        <lastmod>2013-11-20T18:14:36-05:00</lastmod>
     </url>
     <url>
         <loc>http://alnoorp.github.io/blog/archives/</loc>
-        <lastmod>2013-11-20T11:41:22-05:00</lastmod>
+        <lastmod>2013-11-20T18:14:36-05:00</lastmod>
     </url>
     <url>
         <loc>http://alnoorp.github.io/blog/</loc>
-        <lastmod>2013-11-20T11:41:22-05:00</lastmod>
+        <lastmod>2013-11-20T18:14:36-05:00</lastmod>
     </url>
     <url>
         <loc>http://alnoorp.github.io/</loc>
-        <lastmod>2013-11-20T12:00:17-05:00</lastmod>
+        <lastmod>2013-11-20T18:14:36-05:00</lastmod>
     </url>
     <url>
         <loc>http://alnoorp.github.io/new-page/</loc>
-        <lastmod>2013-11-20T11:36:15-05:00</lastmod>
+        <lastmod>2013-11-20T16:03:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://alnoorp.github.io/projects/</loc>
-        <lastmod>2013-11-20T15:58:32-05:00</lastmod>
+        <lastmod>2013-11-20T16:03:12-05:00</lastmod>
     </url>
     <url>
         <loc>http://alnoorp.github.io/robots.txt</loc>
@@ -34,6 +38,6 @@
     </url>
     <url>
         <loc>http://alnoorp.github.io/test/</loc>
-        <lastmod>2013-11-20T11:58:19-05:00</lastmod>
+        <lastmod>2013-11-20T16:03:12-05:00</lastmod>
     </url>
 </urlset>
