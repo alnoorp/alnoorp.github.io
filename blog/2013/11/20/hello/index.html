@@ -56,9 +56,10 @@
   
 <ul class="main-navigation">
   <li><a href="/">Home</a></li>
+  <li><a href="/projects/">Projects</a></li>
   <li><a href="/blog/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
+<!--   <li><a href="/blog/archives">Archives</a></li>
+ --></ul>
 
 </nav>
   <div id="main">
@@ -85,6 +86,9 @@
 
 
 <time datetime="2013-11-20T11:41:22-05:00" pubdate data-updated="true">Nov 20<span>th</span>, 2013</time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://alnoorp.github.io">Comments</a>
         
       </p>
     
@@ -122,7 +126,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://alnoorp.github.io/blog/2013/11/20/hello/" data-via="" data-counturl="http://alnoorp.github.io/blog/2013/11/20/hello/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://alnoorp.github.io/blog/2013/11/20/hello/" data-via="alnoorp" data-counturl="http://alnoorp.github.io/blog/2013/11/20/hello/" >Tweet</a>
   
   
   
@@ -137,6 +141,12 @@
     </p>
   </footer>
 </article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -157,6 +167,35 @@
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/alnoorp">@alnoorp</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'alnoorp',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
 
 
 
@@ -174,6 +213,22 @@
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'alnoorpirani';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://alnoorp.github.io/blog/2013/11/20/hello/';
+        var disqus_url = 'http://alnoorp.github.io/blog/2013/11/20/hello/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
