@@ -4,7 +4,7 @@
   <title><![CDATA[Alnoor Pirani]]></title>
   <link href="http://alnoorp.github.io/atom.xml" rel="self"/>
   <link href="http://alnoorp.github.io/"/>
-  <updated>2013-11-25T11:27:15-05:00</updated>
+  <updated>2013-11-25T13:26:25-05:00</updated>
   <id>http://alnoorp.github.io/</id>
   <author>
     <name><![CDATA[Alnoor Pirani]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>At <a href="http://www.launchacademy.com/">Launch Academy</a>, one of our major projects is the breakable toy, a personal project where we can apply the web development skills we&rsquo;ve learned and use the product as a portfolio piece. I&rsquo;ve been kicking around the idea of creating a review website for pre-workout supplements for the past few months and decided to use this opportunity to build it. I believe it&rsquo;s an ideal project for me to apply what I&rsquo;m learning and push myself to create something useful. I&rsquo;m excited to embark on this project since it combines my love for fitness and technology while preparing me for my career in web development.</p>
 
 <p>I&rsquo;ve been a fitness enthusiast for about 20 years and have done a great deal of research on the web to help with my training and supplementation so I&rsquo;m familiar with the domain. It turns out that the majority of product information for supplements is marketing hype. For the average consumer, it&rsquo;s difficult to find the information needed to make a well-informed decision, that can positively or negatively impact health. Given the rise in interest of pre-workout supplements, there&rsquo;s a real need for unbiased information directly from users as well as information about ingredients, including what they do and their safety. I see this site as an information hub dedicated to helping fitness enthusiasts supplement safely.</p>
+
+<!-- more -->
+
 
 <p>From a technical standpoint, this project is ideal for learning about database design and querying with a web interface. Databases are ubiquitous on the web and power the  majority of web apps. Building a review website would be a great way to learn about how modern websites are structured.</p>
 
