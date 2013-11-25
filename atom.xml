@@ -4,7 +4,7 @@
   <title><![CDATA[Alnoor Pirani]]></title>
   <link href="http://alnoorp.github.io/atom.xml" rel="self"/>
   <link href="http://alnoorp.github.io/"/>
-  <updated>2013-11-25T11:12:53-05:00</updated>
+  <updated>2013-11-25T11:14:45-05:00</updated>
   <id>http://alnoorp.github.io/</id>
   <author>
     <name><![CDATA[Alnoor Pirani]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wireframing My Breakable Toy]]></title>
+    <link href="http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy/"/>
+    <updated>2013-11-24T14:10:06-05:00</updated>
+    <id>http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy</id>
+    <content type="html"><![CDATA[<p>At <a href="http://www.launchacademy.com/">Launch Academy</a>, one of our major projects is the breakable toy, a personal project where we can apply the web development skills we&rsquo;ve learned and use the product as a portfolio piece. I&rsquo;ve been kicking around the idea of creating a review website for pre-workout supplements for the past few months and decided to use this opportunity to build it. I believe it&rsquo;s an ideal project for me to apply what I&rsquo;m learning and push myself to create something useful. I&rsquo;m excited to embark on this project since it combines my love for fitness and technology while preparing me for my career in web development.</p>
+
+<p>I&rsquo;ve been a fitness enthusiast for about 20 years and have done a great deal of research on the web to help with my training and supplementation so I&rsquo;m familiar with the domain. It turns out that the majority of product information for supplements is marketing hype. For the average consumer, it&rsquo;s difficult to find the information needed to make a well-informed decision, that can positively or negatively impact health. Given the rise in interest of pre-workout supplements, there&rsquo;s a real need for unbiased information directly from users as well as information about ingredients, including what they do and their safety. I see this site as an information hub dedicated to helping fitness enthusiasts supplement safely.</p>
+
+<p>From a technical standpoint, this project is ideal for learning about database design and querying with a web interface. Databases are ubiquitous on the web and power the  majority of web apps. Building a review website would be a great way to learn about how modern websites are structured.</p>
+
+<p>After coming up with the concept, I crafted user stories to guide my development efforts. I structured the stories in such a way as to answer the questions who, what and why for each aspect of the website. I then followed by listing acceptance criteria that must be met for the user story to test whether it has been implemented completely.</p>
+
+<p>Here is an example of a user story and acceptance criteria for my review website:</p>
+
+<p><code class="text">As a user<br />
+I want to see detailed information about a product<br />
+So that I know enough about it before making a purchase<br />
+</code></p>
+
+<br />
+
+
+<p><code>
+* Information about the product includes: product name, manufacturer, average cost per serving, potency, flavor, color, ingredients, photo<br />
+* Reviews are presented alongside the product<br />
+* Similar products are shown alongside the product<br />
+* Review summary is presented alongside the product"<br />
+</code></p>
+
+<p>In addition to user stories, I also created wireframes for some of the pages of my site to help communicate the user interface and information presentation. I plan to use them to obtain feedback from my classmates and help with the design process at an early stage before decisions are more difficult and costly to change (with time being the most valuable resource). Below is my low-fidelity wireframe of a product page.</p>
+
+<p><img src="http://alnoorp.github.io/images/wireframe.jpg" title="Wireframe of Product Page" alt="Wireframe of Product Page"></p>
+
+<p>One of the challenges of creating a site like this is the database design. I expect there will be a variety of tables in the database to cover users, reviews, products, companies and ingredients. The book I read on database design will be an excellent resource for when I begin designing the data model and I feel this will be the most challenging aspect of the project.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[5 Ways I Prepared for an Immersive Web Developer Program]]></title>
