@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Wireframing My Breakable Toy - Alnoor Pirani</title>
+  <title>Software Development From the Outside In - Alnoor Pirani</title>
   <meta name="author" content="Alnoor Pirani">
 
   
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy">
+  <link rel="canonical" href="http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Alnoor Pirani" type="application/atom+xml">
@@ -82,7 +82,7 @@
   
   <header>
     
-      <h1 class="entry-title">Wireframing My Breakable Toy</h1>
+      <h1 class="entry-title">Software Development From the Outside In</h1>
     
     
       <p class="meta">
@@ -98,46 +98,30 @@
   
 
 
-<time datetime="2013-11-24T14:10:06-05:00" pubdate data-updated="true">Nov 24<span>th</span>, 2013</time>
+<time datetime="2014-01-05T17:24:01-05:00" pubdate data-updated="true">Jan 5<span>th</span>, 2014</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>At <a href="http://www.launchacademy.com/">Launch Academy</a>, one of our major projects is the breakable toy, a personal project where we can apply the web development skills we&rsquo;ve learned and use the product as a portfolio piece. I&rsquo;ve been kicking around the idea of creating a review website for pre-workout supplements for the past few months and decided to use this opportunity to build it. I believe it&rsquo;s an ideal project for me to apply what I&rsquo;m learning and push myself to create something useful. I&rsquo;m excited to embark on this project since it combines my love for fitness and technology while preparing me for my career in web development.</p>
+<div class="entry-content"><p>Campaign Delta at <a href="http://www.launchacademy.com/">Launch Academy</a> included <a href="http://en.wikipedia.org/wiki/Acceptance_testing">acceptance testing</a> and <a href="http://en.wikipedia.org/wiki/Outside%E2%80%93in_software_development">outside-in development</a>, a follow-up to unit testing and rounding out my knowledge of test-driven development. I expect this organized approach to application development to reduce a lot of the anxiety and frustration around software development that I’ve experienced in the past.</p>
 
-<p>I&rsquo;ve been a fitness enthusiast for about 20 years and have done a great deal of research on the web to help with my training and supplementation so I&rsquo;m familiar with the domain. It turns out that the majority of product information for supplements is marketing hype. For the average consumer, it&rsquo;s difficult to find the information needed to make a well-informed decision, that can positively or negatively impact health. Given the rise in interest of pre-workout supplements, there&rsquo;s a real need for unbiased information directly from users as well as information about ingredients, including what they do and their safety. I see this site as an information hub dedicated to helping fitness enthusiasts supplement safely.</p>
+<p><img src="/images/outside_in_development.jpg" title="Outside In Development" alt="Outside In Development"></p>
 
-<!-- more -->
+<h3>Check for Doneness</h3>
 
+<p>When learning to code, a natural tendency is to directly go from a user requirement to implementation and then worry about how the user will see the result at the end. But how do you know when you’ve satisfied the requirement? Without an objective test, the requirement can become a moving target that leads to wasted time without improving business value for the customer. Acceptance tests anchor the requirements and provide confidence that the requirement has been met.</p>
 
-<p>From a technical standpoint, this project is ideal for learning about database design and querying with a web interface. Databases are ubiquitous on the web and power the  majority of web apps. Building a review website would be a great way to learn about how modern websites are structured.</p>
+<h3>Fix Broken Telephone</h3>
 
-<p>After coming up with the concept, I crafted user stories to guide my development efforts. I structured the stories in such a way as to answer the questions who, what and why for each aspect of the website. I then followed by listing acceptance criteria that must be met for the user story to test whether it has been implemented completely.</p>
+<p>The customer and user of your software are unlikely to be developers themselves. As such, user requirements are provided in plain english and are intended to provide business value. Writing an acceptance test translates the user story into a language that all developers can understand and leads to code that can provide the business value sought after. The methodology of acceptance training ensures that the translation occurs at high fidelity to reduce errors during implementation.</p>
 
-<p>Here is an example of a user story and acceptance criteria for my review website:</p>
+<h3>Quick Release</h3>
 
-<p><code class="text">As a user<br />
-I want to see detailed information about a product<br />
-So that I know enough about it before making a purchase<br />
-</code></p>
+<p>Time is the most expensive resource for the both the developer and customer. The faster a customer can get their solution, the faster they can realize their business value. The faster a developer can complete a project, the faster they can move on to the next project to the keep the business going. Having confidence that the user story has been implemented without errors reduces the likelihood of revisions and leads to faster time to release.</p>
 
-<br />
-
-
-<p><code>
-* Information about the product includes: product name, manufacturer, average cost per serving, potency, flavor, color, ingredients, photo<br />
-* Reviews are presented alongside the product<br />
-* Similar products are shown alongside the product<br />
-* Review summary is presented alongside the product"<br />
-</code></p>
-
-<p>In addition to user stories, I also created wireframes for some of the pages of my site to help communicate the user interface and information presentation. I plan to use them to obtain feedback from my classmates and help with the design process at an early stage before decisions are more difficult and costly to change (with time being the most valuable resource). Below is my low-fidelity wireframe of a product page.</p>
-
-<p><img src="/images/wireframe.jpg" title="Wireframe of Product Page" alt="Wireframe of Product Page"></p>
-
-<p>One of the challenges of creating a site like this is the database design. I expect there will be a variety of tables in the database to cover users, reviews, products, companies and ingredients. The book I read on database design will be an excellent resource for when I begin designing the data model and I feel this will be the most challenging aspect of the project.</p>
+<p>The TDD techniques I’ve learned over the past four weeks have transformed my approach to software development by providing a systematic approach and language with which to turn a user story into a final product that rapidly provides business value.</p>
 </div>
 
 
@@ -160,7 +144,7 @@ So that I know enough about it before making a purchase<br />
   
 
 
-<time datetime="2013-11-24T14:10:06-05:00" pubdate data-updated="true">Nov 24<span>th</span>, 2013</time>
+<time datetime="2014-01-05T17:24:01-05:00" pubdate data-updated="true">Jan 5<span>th</span>, 2014</time>
       
 
 
@@ -168,7 +152,7 @@ So that I know enough about it before making a purchase<br />
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy/" data-via="alnoorp" data-counturl="http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in/" data-via="alnoorp" data-counturl="http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in/" >Tweet</a>
   
   
   
@@ -177,10 +161,8 @@ So that I know enough about it before making a purchase<br />
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2013/11/20/5-ways-i-prepared-for-an-immersive-web-developer-program/" title="Previous Post: 5 Ways I Prepared for an Immersive Web Developer Program">&laquo; 5 Ways I Prepared for an Immersive Web Developer Program</a>
+        <a class="basic-alignment left" href="/blog/2013/11/24/wireframing-my-breakable-toy/" title="Previous Post: Wireframing My Breakable Toy">&laquo; Wireframing My Breakable Toy</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2014/01/05/software-development-from-the-outside-in/" title="Next Post: Software Development from The Outside In">Software Development from The Outside In &raquo;</a>
       
     </p>
   </footer>
@@ -282,8 +264,8 @@ So that I know enough about it before making a purchase<br />
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy/';
-        var disqus_url = 'http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy/';
+        var disqus_identifier = 'http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in/';
+        var disqus_url = 'http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in/';
         var disqus_script = 'embed.js';
       
     (function () {
