@@ -4,7 +4,7 @@
   <title><![CDATA[Alnoor Pirani]]></title>
   <link href="http://alnoorp.github.io/atom.xml" rel="self"/>
   <link href="http://alnoorp.github.io/"/>
-  <updated>2014-01-05T18:50:43-05:00</updated>
+  <updated>2014-01-05T20:01:59-05:00</updated>
   <id>http://alnoorp.github.io/</id>
   <author>
     <name><![CDATA[Alnoor Pirani]]></name>
@@ -20,7 +20,7 @@
     <id>http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in</id>
     <content type="html"><![CDATA[<p>Campaign Delta at <a href="http://www.launchacademy.com/">Launch Academy</a> included <a href="http://en.wikipedia.org/wiki/Acceptance_testing">acceptance testing</a> and <a href="http://en.wikipedia.org/wiki/Outside%E2%80%93in_software_development">outside-in development</a>, a follow-up to unit testing and rounding out my knowledge of test-driven development. I expect this organized approach to application development to reduce a lot of the anxiety and frustration around software development that I’ve experienced in the past.</p>
 
-<p><img src="http://alnoorp.github.io/images/outside_in_development.jpg" title="Outside In Development" alt="Outside In Development"></p>
+<p><img class="center size" src="http://alnoorp.github.io/images/outside_in_development.png" title="Outside In Development" alt="Outside In Development"></p>
 
 <h3>Check for Doneness</h3>
 
