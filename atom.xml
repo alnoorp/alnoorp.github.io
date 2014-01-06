@@ -4,7 +4,7 @@
   <title><![CDATA[Alnoor Pirani]]></title>
   <link href="http://alnoorp.github.io/atom.xml" rel="self"/>
   <link href="http://alnoorp.github.io/"/>
-  <updated>2014-01-05T20:01:59-05:00</updated>
+  <updated>2014-01-05T20:08:06-05:00</updated>
   <id>http://alnoorp.github.io/</id>
   <author>
     <name><![CDATA[Alnoor Pirani]]></name>
@@ -28,7 +28,7 @@
 
 <h3>Fix Broken Telephone</h3>
 
-<p>The customer and user of your software are unlikely to be developers themselves. As such, user requirements are provided in plain english and are intended to provide business value. Writing an acceptance test translates the user story into a language that all developers can understand and leads to code that can provide the business value sought after. The methodology of acceptance training ensures that the translation occurs at high fidelity to reduce errors during implementation.</p>
+<p>The customer and user of your software are unlikely to be developers themselves. As such, user requirements are provided in plain english and are intended to provide business value. Writing an acceptance test translates the user story into a language that all developers can understand and leads to code that can provide the business value sought after. The methodology of acceptance testing ensures that the translation occurs at high fidelity to reduce errors during implementation.</p>
 
 <h3>Quick Release</h3>
 
