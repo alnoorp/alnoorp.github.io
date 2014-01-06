@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Alnoor Pirani]]></title>
-  <link href="http://alnoorp.github.io/atom.xml" rel="self"/>
-  <link href="http://alnoorp.github.io/"/>
-  <updated>2014-01-05T20:08:06-05:00</updated>
-  <id>http://alnoorp.github.io/</id>
+  <link href="http://alnoorpirani.com/atom.xml" rel="self"/>
+  <link href="http://alnoorpirani.com/"/>
+  <updated>2014-01-05T21:04:42-05:00</updated>
+  <id>http://alnoorpirani.com/</id>
   <author>
     <name><![CDATA[Alnoor Pirani]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Software Development From the Outside In]]></title>
-    <link href="http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in/"/>
+    <link href="http://alnoorpirani.com/blog/2014/01/05/software-development-from-the-outside-in/"/>
     <updated>2014-01-05T17:24:01-05:00</updated>
-    <id>http://alnoorp.github.io/blog/2014/01/05/software-development-from-the-outside-in</id>
+    <id>http://alnoorpirani.com/blog/2014/01/05/software-development-from-the-outside-in</id>
     <content type="html"><![CDATA[<p>Campaign Delta at <a href="http://www.launchacademy.com/">Launch Academy</a> included <a href="http://en.wikipedia.org/wiki/Acceptance_testing">acceptance testing</a> and <a href="http://en.wikipedia.org/wiki/Outside%E2%80%93in_software_development">outside-in development</a>, a follow-up to unit testing and rounding out my knowledge of test-driven development. I expect this organized approach to application development to reduce a lot of the anxiety and frustration around software development that I’ve experienced in the past.</p>
 
-<p><img class="center size" src="http://alnoorp.github.io/images/outside_in_development.png" title="Outside In Development" alt="Outside In Development"></p>
+<p><img class="center size" src="http://alnoorpirani.com/images/outside_in_development.png" title="Outside In Development" alt="Outside In Development"></p>
 
 <h3>Check for Doneness</h3>
 
@@ -40,9 +40,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wireframing My Breakable Toy]]></title>
-    <link href="http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy/"/>
+    <link href="http://alnoorpirani.com/blog/2013/11/24/wireframing-my-breakable-toy/"/>
     <updated>2013-11-24T14:10:06-05:00</updated>
-    <id>http://alnoorp.github.io/blog/2013/11/24/wireframing-my-breakable-toy</id>
+    <id>http://alnoorpirani.com/blog/2013/11/24/wireframing-my-breakable-toy</id>
     <content type="html"><![CDATA[<p>At <a href="http://www.launchacademy.com/">Launch Academy</a>, one of our major projects is the breakable toy, a personal project where we can apply the web development skills we&rsquo;ve learned and use the product as a portfolio piece. I&rsquo;ve been kicking around the idea of creating a review website for pre-workout supplements for the past few months and decided to use this opportunity to build it. I believe it&rsquo;s an ideal project for me to apply what I&rsquo;m learning and push myself to create something useful. I&rsquo;m excited to embark on this project since it combines my love for fitness and technology while preparing me for my career in web development.</p>
 
 <p>I&rsquo;ve been a fitness enthusiast for about 20 years and have done a great deal of research on the web to help with my training and supplementation so I&rsquo;m familiar with the domain. It turns out that the majority of product information for supplements is marketing hype. For the average consumer, it&rsquo;s difficult to find the information needed to make a well-informed decision, that can positively or negatively impact health. Given the rise in interest of pre-workout supplements, there&rsquo;s a real need for unbiased information directly from users as well as information about ingredients, including what they do and their safety. I see this site as an information hub dedicated to helping fitness enthusiasts supplement safely.</p>
@@ -73,7 +73,7 @@ So that I know enough about it before making a purchase<br />
 
 <p>In addition to user stories, I also created wireframes for some of the pages of my site to help communicate the user interface and information presentation. I plan to use them to obtain feedback from my classmates and help with the design process at an early stage before decisions are more difficult and costly to change (with time being the most valuable resource). Below is my low-fidelity wireframe of a product page.</p>
 
-<p><img src="http://alnoorp.github.io/images/wireframe.jpg" title="Wireframe of Product Page" alt="Wireframe of Product Page"></p>
+<p><img src="http://alnoorpirani.com/images/wireframe.jpg" title="Wireframe of Product Page" alt="Wireframe of Product Page"></p>
 
 <p>One of the challenges of creating a site like this is the database design. I expect there will be a variety of tables in the database to cover users, reviews, products, companies and ingredients. The book I read on database design will be an excellent resource for when I begin designing the data model and I feel this will be the most challenging aspect of the project.</p>
 ]]></content>
@@ -81,9 +81,9 @@ So that I know enough about it before making a purchase<br />
   
   <entry>
     <title type="html"><![CDATA[5 Ways I Prepared for an Immersive Web Developer Program]]></title>
-    <link href="http://alnoorp.github.io/blog/2013/11/20/5-ways-i-prepared-for-an-immersive-web-developer-program/"/>
+    <link href="http://alnoorpirani.com/blog/2013/11/20/5-ways-i-prepared-for-an-immersive-web-developer-program/"/>
     <updated>2013-11-20T17:51:30-05:00</updated>
-    <id>http://alnoorp.github.io/blog/2013/11/20/5-ways-i-prepared-for-an-immersive-web-developer-program</id>
+    <id>http://alnoorpirani.com/blog/2013/11/20/5-ways-i-prepared-for-an-immersive-web-developer-program</id>
     <content type="html"><![CDATA[<p>Tomorrow I will be starting the next phase of <a href="http://www.launchacademy.com" title="Launch Academy">Launch Academy</a>, the part where I get to meet the other students and experience engineers in person and start working and learning in teams. This is my last day of working independently and I wanted to take a moment to reflect on how I got to this point with some thoughts about what lies ahead. I&rsquo;ve spent a great deal of time learning about web development on my own and preparing myself for this program and I&rsquo;m looking forward to finally getting to work with and learn from others who are going through the same journey of reinventing themselves.</p>
 
 <h3>Independent Study</h3>
@@ -155,9 +155,9 @@ So that I know enough about it before making a purchase<br />
   
   <entry>
     <title type="html"><![CDATA[Decomposition in Software Development and in Life]]></title>
-    <link href="http://alnoorp.github.io/blog/2013/11/20/decomposition-in-software-development-and-in-life/"/>
+    <link href="http://alnoorpirani.com/blog/2013/11/20/decomposition-in-software-development-and-in-life/"/>
     <updated>2013-11-20T17:32:12-05:00</updated>
-    <id>http://alnoorp.github.io/blog/2013/11/20/decomposition-in-software-development-and-in-life</id>
+    <id>http://alnoorpirani.com/blog/2013/11/20/decomposition-in-software-development-and-in-life</id>
     <content type="html"><![CDATA[<p>I just completed my first week at <a href="http://www.launchacademy.com/" title="Launch Academy">Launch Academy</a> and it&rsquo;s already been a transformative experience. One of my biggest takeaways from this past week is that software development is more about the human brain and its capacity to solve problems than it is about machines.</p>
 
 <p>Developers have an acronym to describe this phenomenon: <a href="http://en.wikipedia.org/wiki/User_error" title="User Error">PEBKAC</a> (Problem Exists Between Keyboard and Chair). Turns out we as software developers are the biggest problem facing software development!</p>
